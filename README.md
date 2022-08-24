@@ -1,8 +1,6 @@
 
 <h1 align="center"> Hi there 👋 I'm Jorge Vallejo but you can call me Onfe</h1>
 
-<h1 align="center">Hi there 👋 I'm Andres Quintero</h1>
-
 <h5 align="center"> 
   <code>
     <a href="https://www.linkedin.com/in/onfevs/" title="LinkedIn"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
