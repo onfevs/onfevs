@@ -18,10 +18,11 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=onfevs&theme=monokai&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=onfevs&theme=monokai&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+ <h2 align="center"> ✍️ Random Dev Quote <h2/>
+  
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
+<h2 align="center"> 😂 Random Dev Meme <h2/>
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
@@ -29,7 +30,5 @@
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/onfevs) 
-
-  
 
 
